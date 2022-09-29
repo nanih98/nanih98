@@ -1,4 +1,4 @@
-### Hi, my name is Dani and I'm a Cloud Engineer in Edrans. 🤙
+### Hi, my name is Dani 🤙
 
 I'm actually focused on:
 - Kubernetes
