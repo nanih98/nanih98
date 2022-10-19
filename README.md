@@ -7,4 +7,8 @@ I'm actually focused on:
 - Cloud computng (actually working 100% in AWS services)
 - CI/CD with native tools like Tekton
 
+I'm creating my personal webpage using Github pages, to share some posts about my day in life as a Cloud Engineer. Helping the rest is always a pleasure for me. 
+
+https://nanih98.github.io
+
 ![Golang](/img/golang.png)
